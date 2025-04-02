@@ -1,0 +1,1 @@
+# Personal Info Manager - collects and stores basic user information
