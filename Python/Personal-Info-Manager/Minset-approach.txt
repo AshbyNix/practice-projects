@@ -1,0 +1,19 @@
+1. Think of 3–5 personal details to collect from the user.(Done)
+	a. first name.
+	b. last name.
+	c. age
+	d. height(Meters)
+
+2. Plan what type of variable each one will need.(Done)
+	a. input-string
+	b. input-string
+	c. integer.
+	d. float
+	
+
+3. Prompt the user for each piece of data and store the input using variables.
+
+4. Use expressions (maybe a little math or string formatting) to do something simple with the data.
+Example thoughts: Can I calculate how old someone will be in 5 years? Can I format a nice sentence from the inputs?
+
+5. Run and test your script. Make sure it's clean and handles weird input decently.
